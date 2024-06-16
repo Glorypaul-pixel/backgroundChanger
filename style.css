@@ -1,0 +1,9 @@
+button {
+  display: flex;
+  margin: 40vh auto;
+  padding: 1rem;
+  color: white;
+  background-color: rgb(59, 49, 49);
+  cursor: pointer;
+  border-radius: 1rem;
+}
